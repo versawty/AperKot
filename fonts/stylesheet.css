@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Soledago';
+    src: url('Soledago.eot');
+    src: url('Soledago.eot?#iefix') format('embedded-opentype'),
+        url('Soledago.woff2') format('woff2'),
+        url('Soledago.woff') format('woff'),
+        url('Soledago.ttf') format('truetype'),
+        url('Soledago.svg#Soledago') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
